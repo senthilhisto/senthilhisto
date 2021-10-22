@@ -2,7 +2,7 @@
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning Rust/Python/Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me senthilkumarn@outlook.com
+- 📫 How to reach me snatarajan@histogenetics.com
 
 <!---
 senthilhisto/senthilhisto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
